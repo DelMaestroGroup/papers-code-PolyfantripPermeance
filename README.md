@@ -23,7 +23,7 @@ The data in this project was generated via ...  Processed data is included in th
 ### Support
 The creation of these materials was supported in part by the National Science Foundation under Award No. [2326801](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2326801).
 
-<img width="400px" src="https://upload.wikimedia.org/wikipedia/commons/5/56/NSF_logo.svg">
+<img width="200px" src="https://upload.wikimedia.org/wikipedia/commons/5/56/NSF_logo.svg">
 
 
 ### Figures
