@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1027957251.svg)](https://doi.org/10.5281/zenodo.23378206)
+
 # Giant gas permeance through a nanoporous, crystalline 2D polymer
 
 Jonathan D'Emidio, Daniel J. Murray, William B. Thompson, Jarvis C. Humlick, K. C. Schwab, Adrian Del Maestro, and Benjamin T. King
