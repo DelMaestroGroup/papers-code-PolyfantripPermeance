@@ -38,8 +38,6 @@ The `launch_jobs` files retain paths from the original simulation environment. T
 
 The figure-generation scripts require Python 3, NumPy, SciPy, and Matplotlib. 
 
-```
-
 All three scripts use LaTeX for text rendering, with the `helvet` and `sansmath` packages. A working LaTeX installation and `dvipng` must be available on `PATH` to generate the PNG figures.
 
 ### Reproducing the figures
