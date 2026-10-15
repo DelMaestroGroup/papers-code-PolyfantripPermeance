@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1027957251.svg)](https://doi.org/10.5281/zenodo.23378206)
+
 # Giant gas permeance through a nanoporous, crystalline 2D polymer
 
 Jonathan D'Emidio, Daniel J. Murray, William B. Thompson, Jarvis C. Humlick, K. C. Schwab, Adrian Del Maestro, and Benjamin T. King
@@ -37,8 +39,6 @@ The `launch_jobs` files retain paths from the original simulation environment. T
 ### Requirements
 
 The figure-generation scripts require Python 3, NumPy, SciPy, and Matplotlib. 
-
-```
 
 All three scripts use LaTeX for text rendering, with the `helvet` and `sansmath` packages. A working LaTeX installation and `dvipng` must be available on `PATH` to generate the PNG figures.
 
